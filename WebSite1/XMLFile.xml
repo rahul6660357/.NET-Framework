@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<advertisements>
+  <ad>
+    <ImageUrl>~/image/Adv1.gif</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+  </ad>
+  <ad>
+    <ImageUrl>~/image/Adv1.gif</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+  </ad>
+  <ad>
+    <ImageUrl>~/image/Adv1.gif</ImageUrl>
+    <NavigateUrl></NavigateUrl>
+  </ad>
+  
+</advertisements>
